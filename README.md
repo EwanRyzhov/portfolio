@@ -1,7 +1,7 @@
 # portfolio
 Здесь собраны некоторые реализованные проекты:
-№ | Наименование проекта | Описание | Стек
-:---| :---: | :--- | :---
+№ | Наименование проекта | Описание | Стек |
+:---| :---: | :--- | :--- |
 1 | [Исследование объявлений о продаже квартир](https://github.com/EwanRyzhov/portfolio/blob/main/estate_eda.ipynb) | Разведочный анализ данных сервиса Яндекс.Недвижимость — архива объявлений о продаже квартир в Санкт-Петербурге и соседних населенных пунктах.| python, pandas, numpy, seaborn, matplotlib
 2 | [Исследование факторов, влияющих на продажи компьютерных игр](https://github.com/EwanRyzhov/portfolio/blob/main/games.ipynb)| Из открытых источников имеются исторические данные о продажах игр разных жанров на разных платформах, а также их рейтингах, оценках от игроков и критиков. Цель исследования — выявить закономерности, которые влияют на успешность игры. | python, scipy, seaborn, numpy, matplotlib
 3 | [Выбор локации для скважины](https://github.com/EwanRyzhov/portfolio/blob/main/geo_data.ipynb)| На основании данных с пробами нефти в трёх регионах строится модель машинного обучения, которая помогает определить регион, где добыча принесёт наибольшую прибыль | python, seaborn, numpy, pyplot, sklearn
@@ -10,3 +10,4 @@
 6 | [Прогнозирование заказов такси](https://github.com/EwanRyzhov/portfolio/blob/main/taxi_times_series.ipynb) | Работа с временными рядами: прогнозирование количества заказов такси из аэропорта | python, numpy, seaborn, pyplot, sklearn, statsmodels, catboost
 7 | [Определение "токсичных" комментариев](https://github.com/EwanRyzhov/portfolio/blob/main/toxic_comments.ipynb) | Машинное обучение для текстов: цель проекта — создать модель, которая сможет выявить "токсичные" комментарии, которые следует отправить на модерацию. | python, numpy, pyplot, sklearn, statsmodels, catboost, nltk
 8 | [Определение возраста покупателей](https://github.com/EwanRyzhov/portfolio/blob/main/cv_chalearnlap.ipynb) | Компьютерное зрение: создание модели для определения возраста клиентов на основе открытого датасета с фотографиями | python, pandas, numpy, keras
+9 | [Прогнозирование температуры сплава](https://github.com/EwanRyzhov/portfolio/blob/main/forecast_steel_temp.ipynb) | Заказчик работы — металлургический комбинат. Цель исследования: сократить производственные расходы за счет оптимизации потребления электроэнергии на этапе обработки стали. Необходимо построить модель, которая предскажет температуру стали. | python, pandas, numpy, matplotlib.pyplot, sklearn, catboost
