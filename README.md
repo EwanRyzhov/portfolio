@@ -2,7 +2,7 @@
 Здесь собраны учебные проекты:
 № | Наименование проекта | Описание | Стек |
 :---| :---: | :--- | :--- |
-1 | [Исследование объявлений о продаже квартир](https://github.com/EwanRyzhov/portfolio/blob/main/estate_eda.ipynb) | Разведочный анализ данных сервиса Яндекс.Недвижимость — архива объявлений о продаже квартир в Санкт-Петербурге и соседних населенных пунктах.| python, pandas, numpy, seaborn, matplotlib
+1 | [Исследование объявлений о продаже квартир](https://github.com/EwanRyzhov/portfolio/blob/main/EDA_projects/estate_eda.ipynb) | Разведочный анализ данных сервиса Яндекс.Недвижимость — архива объявлений о продаже квартир в Санкт-Петербурге и соседних населенных пунктах.| python, pandas, numpy, seaborn, matplotlib
 2 | [Исследование факторов, влияющих на продажи компьютерных игр](https://github.com/EwanRyzhov/portfolio/blob/main/games.ipynb)| Из открытых источников имеются исторические данные о продажах игр разных жанров на разных платформах, а также их рейтингах, оценках от игроков и критиков. Цель исследования — выявить закономерности, которые влияют на успешность игры. | python, scipy, seaborn, numpy, matplotlib
 3 | [Выбор локации для скважины](https://github.com/EwanRyzhov/portfolio/blob/main/geo_data.ipynb)| На основании данных с пробами нефти в трёх регионах строится модель машинного обучения, которая помогает определить регион, где добыча принесёт наибольшую прибыль | python, seaborn, numpy, pyplot, sklearn
 4 | [Определение стоимости автомобиля](https://github.com/EwanRyzhov/portfolio/blob/main/car_price_prediction/cars_price_predictions_GB.ipynb) | Оценка рыночной стоимости автомобиля с применением машинного обучения| python, numpy, seaborn, pyplot, sklearn, catboost, lightgbm
